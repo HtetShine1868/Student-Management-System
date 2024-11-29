@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Project8\Project8\Source.cpp(712,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\Project8\Project8\Source.cpp(798,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\Project8\Project8\Source.cpp(809,78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Project8.vcxproj -> C:\Users\User\source\repos\Project8\x64\Debug\Project8.exe
